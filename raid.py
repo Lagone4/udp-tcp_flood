@@ -20,7 +20,7 @@ import os
 from os import system, name
 
 print("\033[1;34;40m \n")
-os.system("figlet UDP-TCP RAID -f slant")
+os.system("figlet UDP-TCP RAID")
 print("\033[1;33;40m (PRESSIONE ENTER)\n")
 print (f'SEU IP GERADO: {ipgerado}')
 
